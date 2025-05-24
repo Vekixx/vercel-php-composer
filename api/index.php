@@ -74,7 +74,7 @@
     <div class="am-panel-hd">免责声明</div>
     <div class="am-panel-bd">本站不存储、不传播任何影片，仅供学习交流使用，如侵犯您的权益请及时联系处理。</div>
   </div>
-  <p class="am-text-center">Mod By: 龙崎崎 v1.7.9 © 2025 <a href="#">版权声明</a></p>
+  <p class="am-text-center">Built by Vekixx | Powered by 龙崎崎 © 2025</p>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
