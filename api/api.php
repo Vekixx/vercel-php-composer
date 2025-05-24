@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json');
 
-$api_base = 'https://ja.vekixx.com/';
+$api_base = 'https://javbus-api-from-ovnrain-delta-self.vercel.app/';
 $mode = $_GET['mode'] ?? 'keyword';
 $keyword = trim($_GET['keyword'] ?? '');
 $page = intval($_GET['page'] ?? 1);
